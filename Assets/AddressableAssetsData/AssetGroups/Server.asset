@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Server
+  m_EditorClassIdentifier: 
+  m_GroupName: Server
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bfb62f0d1a7c24083b4a028b046abe4d
+  m_SerializeEntries:
+  - m_GUID: 54ab3cf01bd904fd3b608a5204191dac
+    m_Address: Assets/Scenes/SampleScene3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game3
+    - Game 3
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bb01c30d185fa4f17975bddb99e5542e
+    m_Address: Assets/Scenes/SampleScene2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game2
+    - Game 2
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d1c3109bdb54ad54c8a2b2838528e640
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game1
+    - Game 1
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e9bf0ce9c422e40b896974dd3b375503
+    m_Address: Assets/Scenes/GamesMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MenuScene
+    - default
+    - Menu
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5de07d730917642eca6136f4160d5246, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 430a679230670402e863deb73d266ced, type: 2}
+    - {fileID: 11400000, guid: fedb3c7a008a24022b880050584ab022, type: 2}
