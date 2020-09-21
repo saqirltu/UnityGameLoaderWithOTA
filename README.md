@@ -11,7 +11,7 @@ Unmaintained Installations, such as Arcade machine: We can push new content and 
 
 Large games: This allows to selectively load the pieces which are needed into the game at runtime.   
 
-It is using the Unity Addressables to support the remote content management. Up from the Unity Editor and Addressable package versions used in the project, we can even put the actual Scene asset in the Packages folder. 
+It is using the Unity Addressables to support the remote content management. Thanks to the latest bug fix, up from Unity 2020.2a17 + Addressables v1.12.0., we can even put the actual Scene asset in the Packages folder. 
 
 HowTo:
 
